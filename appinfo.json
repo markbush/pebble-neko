@@ -1,0 +1,217 @@
+{
+  "uuid": "b533bc31-ac6d-4640-aec5-325619a1a135",
+  "shortName": "Neko",
+  "longName": "Neko",
+  "companyName": "Mark Bush",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "file": "images/awake1.png",
+        "name": "IMAGE_AWAKE1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/awake2.png",
+        "name": "IMAGE_AWAKE2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/lick.png",
+        "name": "IMAGE_LICK",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/mouse.png",
+        "name": "IMAGE_MOUSE",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_e1.png",
+        "name": "IMAGE_RUN_E1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_e2.png",
+        "name": "IMAGE_RUN_E2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_n1.png",
+        "name": "IMAGE_RUN_N1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_n2.png",
+        "name": "IMAGE_RUN_N2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_ne1.png",
+        "name": "IMAGE_RUN_NE1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_ne2.png",
+        "name": "IMAGE_RUN_NE2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_nw1.png",
+        "name": "IMAGE_RUN_NW1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_nw2.png",
+        "name": "IMAGE_RUN_NW2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_s1.png",
+        "name": "IMAGE_RUN_S1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_s2.png",
+        "name": "IMAGE_RUN_S2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_se1.png",
+        "name": "IMAGE_RUN_SE1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_se2.png",
+        "name": "IMAGE_RUN_SE2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_sw1.png",
+        "name": "IMAGE_RUN_SW1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_sw2.png",
+        "name": "IMAGE_RUN_SW2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_w1.png",
+        "name": "IMAGE_RUN_W1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/run_w2.png",
+        "name": "IMAGE_RUN_W2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_self1.png",
+        "name": "IMAGE_SCRATCH_SELF1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_self2.png",
+        "name": "IMAGE_SCRATCH_SELF2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_wall_e1.png",
+        "name": "IMAGE_SCRATCH_WALL_E1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_wall_e2.png",
+        "name": "IMAGE_SCRATCH_WALL_E2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_wall_n1.png",
+        "name": "IMAGE_SCRATCH_WALL_N1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_wall_n2.png",
+        "name": "IMAGE_SCRATCH_WALL_N2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_wall_s1.png",
+        "name": "IMAGE_SCRATCH_WALL_S1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_wall_s2.png",
+        "name": "IMAGE_SCRATCH_WALL_S2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_wall_w1.png",
+        "name": "IMAGE_SCRATCH_WALL_W1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/scratch_wall_w2.png",
+        "name": "IMAGE_SCRATCH_WALL_W2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/sleep1.png",
+        "name": "IMAGE_SLEEP1",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/sleep2.png",
+        "name": "IMAGE_SLEEP2",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      },
+      {
+        "file": "images/yawn.png",
+        "name": "IMAGE_YAWN",
+        "type": "png",
+        "targetPlatforms": [ "aplite", "basalt" ]
+      }
+    ]
+  }
+}
