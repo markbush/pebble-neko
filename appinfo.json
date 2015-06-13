@@ -15,6 +15,12 @@
   "resources": {
     "media": [
       {
+        "file": "images/neko-menu.png",
+        "menuIcon": true,
+        "name": "IMAGE_MENU",
+        "type": "png"
+      },
+      {
         "file": "images/awake1.png",
         "name": "IMAGE_AWAKE1",
         "type": "png",
